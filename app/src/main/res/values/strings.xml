@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DamFirebase2122</string>
+    <string name="sign_in_bt">Entrar</string>
+    <string name="sign_in_email">Correo</string>
+    <string name="sign_in_pwd">Contraseña</string>
+    <string name="sign_in_to_register">Registrate</string>
+    <string name="register_confirm_pwd">Repite la contraseña</string>
+    <string name="register_back_bt">Volver</string>
+    <string name="register_register_bt">Registrarse</string>
+    <string name="main_sign_out_bt">Desconectarse</string>
+    <string name="main_profile_bt">Perfil</string>
+    <string name="main_username_bt">Perfil</string>
+    <string name="title_activity_item">ItemActivity</string>
+    <string name="user_name_edittext">Nombre</string>
+    <string name="user_surname_edittext">Apellidos</string>
+    <string name="user_email_textview">Correo</string>
+    <string name="user_address_edittext">Direccion</string>
+    <string name="user_phone_edittext">Telefono</string>
+    <string name="user_save_button">Guardar</string>
+    <string name="user_delete_button">Eliminar</string>
+    <string name="user_get_button">Recuperar</string>
+    <string name="title_activity_lists">ListsActivity</string>
+</resources>

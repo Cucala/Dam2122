@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823623463534",
+    "project_id": "dam-2122",
+    "storage_bucket": "dam-2122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823623463534:android:727471a88b6282263bec7f",
+        "android_client_info": {
+          "package_name": "enriquez.lloret.damfirebase2122"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823623463534-90vchu25lp2i9baoppsto6ttf2u436kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsyYwdiyAra_fkAQgSe_7VYyiL-Hglllg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823623463534-90vchu25lp2i9baoppsto6ttf2u436kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

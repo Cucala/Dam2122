@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SplashTheme" parent="Theme.DamFirebase2122">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+
+    <style name="PrimaryButton" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/orange</item>
+        <item name="cornerRadius">20dp</item>
+    </style>
+</resources>
